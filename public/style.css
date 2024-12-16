@@ -1,0 +1,12 @@
+.yubn button {
+  background-color: aqua;
+  border-radius: 12px;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.yubn button:hover {
+  background-color: rgb(10, 228, 228);
+  color: rgb(21, 33, 15);
+}
